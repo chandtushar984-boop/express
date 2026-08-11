@@ -1,0 +1,22 @@
+{
+  "name": "backend_wala_hoon",
+  "version": "1.0.0",
+  "description": "me to backend wala huuoonnnn",
+  "keywords": [],
+  "homepage": "https://github.com/chandtushar984-boop/express#readme",
+  "bugs": {
+    "url": "https://github.com/chandtushar984-boop/express/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chandtushar984-boop/express.git"
+  },
+  "license": "ISC",
+  "author": "index.js",
+  "type": "commonjs",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  }
+}
