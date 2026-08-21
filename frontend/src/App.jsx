@@ -5,7 +5,7 @@ import heroImg from './assets/hero.png'
 import './App.css'
 
 function App() {
-  const [anime, setAnime] = useState(0)
+  const [anime, setAnimeq] = useState(0)
 
   return (
     <>
@@ -17,7 +17,7 @@ function App() {
         </div>
         <div>
           <h1>Get started</h1>
-          <p>
+          <p id="class">
             Edit <code>src/App.jsx</code> and save to test <code>HMR</code>
           </p>
         </div>
