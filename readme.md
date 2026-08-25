@@ -1,2 +1,2 @@
 www.google.com/
-www.google.com/tushar
+www.google.com/ kill yourself
